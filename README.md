@@ -45,3 +45,11 @@ The following image shows the web application's appearance and functionality:
 ```
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/marketingsite.gif)
+
+### Url
+
+```
+ The URL of the deployed application: https://newmanuel.github.io/1-Marketing-Site/
+The URL of the GitHub repository: https://github.com/NewManuel/1-Marketing-Site 
+
+ ```
